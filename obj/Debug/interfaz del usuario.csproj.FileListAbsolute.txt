@@ -1,0 +1,26 @@
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\interfaz del usuario.exe.config
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\interfaz del usuario.exe
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\interfaz del usuario.pdb
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\MySql.Data.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\Google.Protobuf.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\Zstandard.Net.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\Renci.SshNet.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\System.Buffers.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\System.Memory.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\bin\Debug\MySql.Data.xml
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.exe.config
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz_del_usuario.Form1.resources
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz_del_usuario.Properties.Resources.resources
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.csproj.CopyComplete
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.exe
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz del usuario.pdb
+C:\Users\Familia\Desktop\fedra\interfaz del usuario\interfaz del usuario\obj\Debug\interfaz_del_usuario.Form2.resources
